@@ -61,12 +61,11 @@ ai-threat-landscape-2026/
 │
 ├── README.md
 ├── ## Documents
-- ## Documents
-
+- ## Document
 - [Current State of AI](ai-current-state.md)
 - [AI Cybersecurity Risks](ai-cybersecurity-risks.md)
 - [AI Security Controls](ai-security-controls.md)
-├── nist-ai-rmf-summary.md
+- [NIST AI Risk Management Framework Summary](nist-ai-rmf-summary.md)
 ├── glossary.md
 └── resources.md
 ```
