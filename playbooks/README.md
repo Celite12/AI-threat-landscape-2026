@@ -9,7 +9,7 @@ The goal is to demonstrate:
 - Security Operations Center (SOC) workflows
 - Security+ knowledge applied to real-world scenarios
 
----
+
 
 ## Available Playbooks
 
