@@ -1,5 +1,11 @@
 # AI Threat Landscape 2026
 ### A Cybersecurity Perspective
+## Project Status
+
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
+![AI](https://img.shields.io/badge/Focus-AI%20Security-blue)
+![NIST](https://img.shields.io/badge/Framework-NIST%20AI%20RMF-orange)
 
 ## Project Overview
 
@@ -55,19 +61,17 @@ The goal is to explain complex concepts in beginner-friendly language while demo
 ---
 
 ## Project Structure
+ai-threat-landscape-2026
 
-```text
-ai-threat-landscape-2026/
-│
-├── README.md
-├── ## Documents
+-README.md
+## Documents
+
 - [Current State of AI](ai-current-state.md)
 - [AI Cybersecurity Risks](ai-cybersecurity-risks.md)
 - [AI Security Controls](ai-security-controls.md)
 - [NIST AI Risk Management Framework Summary](nist-ai-rmf-summary.md)
 - [AI & Cybersecurity Glossary](glossary.md)
 - [Resources & References](resources.md)
-```
 
 ---
 
