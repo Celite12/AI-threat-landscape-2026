@@ -60,8 +60,9 @@ The goal is to explain complex concepts in beginner-friendly language while demo
 ai-threat-landscape-2026/
 │
 ├── README.md
-├── - [Current State of AI](ai-current-state.md)
-├── ai-cybersecurity-risks.md
+├── ## Documents
+- [Current State of AI](ai-current-state.md)
+- [AI Cybersecurity Risks](ai-cybersecurity-risks.md)
 ├── ai-security-controls.md
 ├── nist-ai-rmf-summary.md
 ├── glossary.md
