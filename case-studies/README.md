@@ -15,5 +15,6 @@ The purpose of these case studies is to understand:
 ## Available Case Studies
 
 - [MGM Resorts Social Engineering Attack (2023)](mgm-resorts-2023.md)
+- - [AI Deepfake Fraud Investigation (2025)](ai-deepfake-fraud-2025.md)
 
 More case studies will be added over time.
